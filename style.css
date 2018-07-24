@@ -38,3 +38,13 @@ body {
     font-family: 44px;
     color: #d32d21;
 }
+
+.download-link {
+  display: block;
+  float: right;
+  color: #fff;
+  font-size: 1.2em;
+  padding: 20px;
+  font-family: Arial;
+  text-decoration: none;
+}
