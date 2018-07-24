@@ -9,7 +9,6 @@ body {
 
 .header {
     background: #0d3080;
-	margin-bottom: 60px;
 }
 
 .main {
@@ -39,12 +38,30 @@ body {
     color: #d32d21;
 }
 
+
 .download-link {
   display: block;
   float: right;
   color: #fff;
   font-size: 1.2em;
-  padding: 20px;
+  padding: 12px 20px;
   font-family: Arial;
   text-decoration: none;
+  margin: 20px;
+  background: #7bd389;
+}
+
+.post-header {
+  padding: 20px;
+  background: #ccc;
+  color: #666;
+  font-size: 20px;
+  font-family: Arial;
+  margin-bottom: 40px;
+  text-align: center;
+}
+.post-header h1 {
+  padding: 0px;
+  margin: 0px;
+  color :#0d3080;
 }
